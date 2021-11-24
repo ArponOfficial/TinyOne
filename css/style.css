@@ -21,7 +21,7 @@ header{
 	transition: .3s !important;
 }
 .menu ul li:last-child a{
-	margin-right: 80px;
+	margin-right: 0px;
 }
 .menu ul li a:hover{
 	color: white !important;}
